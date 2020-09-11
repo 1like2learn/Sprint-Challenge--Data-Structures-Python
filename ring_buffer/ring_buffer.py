@@ -27,3 +27,6 @@ class RingBuffer:
         #return buffer
         return self.buffer
 
+# print(int("Root String".replace(" ", ""), base = 36))
+# print(int("a", base = 36))
+print(" " > "a")
